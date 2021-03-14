@@ -9,6 +9,7 @@ DSi 디지털사회혁신 6팀
 ![플레터3](https://user-images.githubusercontent.com/70623290/111063906-75501000-84f4-11eb-89e2-c49f516a21ab.png)
 ![플레터5](https://user-images.githubusercontent.com/70623290/111064045-49815a00-84f5-11eb-93e6-6f9f732735dd.png)
 ![플레터2](https://user-images.githubusercontent.com/70623290/111064217-19868680-84f6-11eb-800d-9d3c19bd42a7.png)
+
 ![Animation_2021-03-14-18-42-07](https://user-images.githubusercontent.com/70623290/111064203-04115c80-84f6-11eb-8f08-b775157e5b8c.gif)
 
 ##  &#10004; 주제선정 이유

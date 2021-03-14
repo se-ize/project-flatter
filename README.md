@@ -5,6 +5,9 @@
 ##  &#10004; 참여자
 DSi 디지털사회혁신 6팀
 
+##  &#10004; 참여역할
+스톱모터를 움직이는 아두이노 프로그래밍 / 프로토타입 제작
+
 ##  &#10004; 모델링 및 실행사진
 ![플레터3](https://user-images.githubusercontent.com/70623290/111063906-75501000-84f4-11eb-89e2-c49f516a21ab.png)
 ![플레터5](https://user-images.githubusercontent.com/70623290/111064045-49815a00-84f5-11eb-93e6-6f9f732735dd.png)
@@ -31,9 +34,6 @@ DSi 디지털사회혁신 6팀
 ##  &#10004; 기대효과
 ![SmartSelectImage_2021-03-14-18-48-40](https://user-images.githubusercontent.com/70623290/111064195-f9ef5e00-84f5-11eb-9db4-bfc6ce1df5e4.png)
 ![SmartSelectImage_2021-03-14-18-56-33](https://user-images.githubusercontent.com/70623290/111064357-01fbcd80-84f7-11eb-928e-5cee97db010a.png)
-
-##  &#10004; 참여역할
-스톱모터를 움직이는 아두이노 프로그래밍 / 프로토타입 제작
 
 ##  &#10004; 수상
 ![KakaoTalk_20201223_174333323](https://user-images.githubusercontent.com/70623290/111064242-391daf00-84f6-11eb-823b-de586655d2ee.jpg)

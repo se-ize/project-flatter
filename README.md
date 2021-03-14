@@ -34,7 +34,7 @@ DSi 디지털사회혁신 6팀
 5) 토출구 각도조절
 6) 플라스틱 분리
 
-##  &#10004; 기대효과
+##  &#10004; 기대효과 및 비즈니스 모델
 ![SmartSelectImage_2021-03-14-18-48-40](https://user-images.githubusercontent.com/70623290/111064195-f9ef5e00-84f5-11eb-9db4-bfc6ce1df5e4.png)
 ![SmartSelectImage_2021-03-14-18-58-28](https://user-images.githubusercontent.com/70623290/111064420-4d15e080-84f7-11eb-9bcc-65eacfcbbdf9.png)
 
